@@ -9,7 +9,9 @@
 [![скачать](https://img.shields.io/github/v/release/salenyo/lamusica-mobile-releases?label=%E2%AC%87%20%D1%81%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C&color=0a84ff&style=for-the-badge)](https://github.com/salenyo/lamusica-mobile-releases/releases/latest)
 [![платформы](https://img.shields.io/badge/iOS%2016%2B%20%7C%20Android%208%2B-6e6e73?style=for-the-badge)](https://github.com/salenyo/lamusica-mobile-releases/releases/latest)
 
-<img src="docs/screens.png" alt="Главная, плеер, текст песни, поиск и профиль" width="100%">
+<img src="docs/screens.png" alt="iOS: главная, плеер, текст песни, поиск и профиль" width="100%">
+
+<img src="docs/android.png" alt="Android: главная, плеер, текст песни, поиск и профиль" width="100%">
 
 </div>
 
@@ -48,6 +50,10 @@
 2. Разрешите установку из этого источника, когда Android спросит.
 
 Новая версия ставится тем же способом поверх старой — данные и вход сохраняются.
+
+Если у вас стоит старая версия 0.7, сначала удалите её: новая подписана другим ключом, и поверх
+старой Android её не поставит («Приложение не установлено, так как пакет недействителен»). После
+установки войдите заново — лайки и плейлисты хранятся в аккаунте.
 
 ## iOS
 
